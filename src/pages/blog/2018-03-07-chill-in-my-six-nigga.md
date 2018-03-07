@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Chill in my six nigga
+title: Riding in my six nigga
 date: 2018-03-07T20:04:42.936Z
-description: in the back fondling ya bitch nigga
+description: in the back fondling ya mother nigga
 ---
-nIGAAA
+change that shit NIGGGAAAA
