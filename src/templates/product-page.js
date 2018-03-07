@@ -2,6 +2,7 @@ import React from 'react'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
+import './my.css'
 
 export const ProductPageTemplate = ({
   image,
@@ -21,8 +22,7 @@ export const ProductPageTemplate = ({
           <div className="column is-10 is-offset-1">
             <div className="content">
               <div
-                className="full-width-image-container margin-top-0"
-                style={{ backgroundImage: `url(${image})` }}
+                className="full-width-image-container margin-top-0 myclass"
               >
                 <h2
                   className="has-text-weight-bold is-size-1"
